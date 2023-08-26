@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (1_hello_word.vcxproj, 1_hello_world.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  glad.c
+  main.cpp
+C:\Users\mirgi\source\progetti_programmazione_grafica\1_hello_word\1_hello_word\main.cpp(46,40): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  1_hello_word.vcxproj -> C:\Users\mirgi\source\progetti_programmazione_grafica\1_hello_word\x64\Debug\1_hello_window.exe
