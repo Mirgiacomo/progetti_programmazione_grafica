@@ -1,0 +1,4 @@
+﻿  main2.cpp
+C:\Users\mirgi\source\progetti_programmazione_grafica\6_coordinate_system\6_coordinate_system\main2.cpp(218,39): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\source\progetti_programmazione_grafica\6_coordinate_system\6_coordinate_system\main2.cpp(220,39): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  6_coordinate_system.vcxproj -> C:\Users\mirgi\source\progetti_programmazione_grafica\6_coordinate_system\x64\Debug\6_coordinate_system.exe
