@@ -1,0 +1,25 @@
+﻿  glad.c
+  main.cpp
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(374,168): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(374,139): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(374,110): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(379,91): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(380,95): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(383,168): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(383,139): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(383,110): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(387,91): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(388,95): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(391,168): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(391,139): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(391,110): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(395,91): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(396,95): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(399,168): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(399,139): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(399,110): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(403,91): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(404,95): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(412,86): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\3_multiple_lights\main.cpp(413,90): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+  3_multiple_lights.vcxproj -> C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap2\6_multiple_lights\x64\Debug\3_multiple_lights.exe
