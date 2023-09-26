@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\mirgi\source\grafica\OpenGL\Include\OpenGL\model.h(13,10): fatal  error C1083: Non è possibile aprire il file inclusione: 'mesh.h': No such file or directory
