@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  SkeletalModel.cpp
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\SkeletalModel.cpp(240,23): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\SkeletalModel.cpp(242,22): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\SkeletalModel.cpp(317,18): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\SkeletalModel.cpp(345,18): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\SkeletalModel.cpp(367,18): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  drawable.cpp
+  glslprogram.cpp
+  glutils.cpp
+  gl_core_4_3.cpp
+  Math3D.cpp
+  QuatCamera.cpp
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\QuatCamera.cpp(246,44): warning C4305: 'argomento': troncamento da 'double' a 'const T'
+          with
+          [
+              T=float
+          ]
+  AnimationScene.cpp
+  TeapotAD.cpp
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\TeapotAD.cpp(126,24): warning C4244: 'inizializzazione': conversione da 'double' a '__int64'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\TeapotAD.cpp(132,19): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\TeapotAD.cpp(136,30): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\TeapotAD\TeapotAD.cpp(143,17): warning C4244: '=': conversione da 'double' a '__int64'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  TeapotAD.vcxproj -> C:\Users\mirgi\Downloads\skeletal_animation_tutorial-master\skeletal_animation_tutorial-master\x64\DebugVS2015\SkeletalAnimationDemo.exe
