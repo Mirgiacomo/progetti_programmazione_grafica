@@ -7,6 +7,8 @@ uniform sampler2D depthMap;
 uniform float near_plane;
 uniform float far_plane;
 
+// questo è utilizzato per discare i cubi
+
 // required when using a perspective projection matrix
 float LinearizeDepth(float depth)
 {
