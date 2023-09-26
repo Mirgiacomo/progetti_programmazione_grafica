@@ -1,4 +1,5 @@
 ﻿  main.cpp
   main2.cpp
+C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap1\3_shaders\3_shaders\main2.cpp(80,39): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
   Generazione del codice in corso...
   3_shaders.vcxproj -> C:\Users\mirgi\Desktop\Programmazione Grafica\progetti_programmazione_grafica\chap1\3_shaders\x64\Debug\3_shaders.exe
