@@ -1,7 +1,6 @@
+#define STB_IMAGE_IMPLEMENTATION
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#define STB_IMAGE_IMPLEMENTATION
-#include <OpenGL/stb_image.h>
 #include <glm/glm/glm.hpp>
 #include <glm/glm/gtc/matrix_transform.hpp>
 #include <glm/glm/gtc/type_ptr.hpp>
@@ -78,7 +77,7 @@ int main()
 	Shader lightCubeShader("light_cube.vs", "light_cube.fs");
 
 	// caricamento modello
-	Model ourModel("../../sources/objects/backpack/backpack.obj");
+	Model ourModel("backpack/backpack.obj");
 
 	// vertici di un cubo
 	float vertices[] = {

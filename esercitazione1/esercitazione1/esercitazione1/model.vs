@@ -1,4 +1,4 @@
-ï»¿#version 330 core
+#version 330 core
 
 layout (location = 0) in vec3 aPos;
 layout (location = 1) in vec3 aNormal;
@@ -29,12 +29,12 @@ void main()
     vs_out.TexCoords = aTexCoords;
     vs_out.Normal = mat3(transpose(inverse(model))) * aNormal; 
 
-    // configura la matrice TBN, (nello spazio mondo poichï¿½ moltiplica per model)
+    // configura la matrice TBN, (nello spazio mondo poiché moltiplica per model)
     vec3 T = normalize(vec3(model * vec4(aTangent,   0.0)));
     vec3 B = normalize(vec3(model * vec4(aBitangent, 0.0)));
     vec3 N = normalize(vec3(model * vec4(aNormal,    0.0)));
     
-    // inversa della matrice TBN, poichï¿½ serve per trasformare i vettori dallo spazio mondo allo spazio tangent
+    // inversa della matrice TBN, poiché serve per trasformare i vettori dallo spazio mondo allo spazio tangent
     // usa il transpose essendo la matrice ortogonale
     vs_out.TBN = transpose(mat3(T, B, N));
 

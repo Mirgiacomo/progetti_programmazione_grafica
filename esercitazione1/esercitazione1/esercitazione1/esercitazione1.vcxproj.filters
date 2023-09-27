@@ -23,9 +23,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="model.vs">
-      <Filter>File di origine</Filter>
-    </None>
     <None Include="model.fs">
       <Filter>File di origine</Filter>
     </None>
@@ -33,6 +30,9 @@
       <Filter>File di origine</Filter>
     </None>
     <None Include="light_cube.fs">
+      <Filter>File di origine</Filter>
+    </None>
+    <None Include="model.vs">
       <Filter>File di origine</Filter>
     </None>
   </ItemGroup>
