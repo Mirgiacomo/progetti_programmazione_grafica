@@ -1,5 +1,4 @@
-// prende un modello per oggetto, un vertice e trasforma tutti i vertici in uno spazio luminoso usando lightSpaceMatrix
-// shader che viene utilizzato per generare la depth map
+// shader
 
 #version 330 core
 layout (location = 0) in vec3 aPos;
